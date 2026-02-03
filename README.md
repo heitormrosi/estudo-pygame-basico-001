@@ -14,6 +14,10 @@
 ![Infográfico de Pygame][Infográfico de Pygame]
 
 ## Índice
+
+ - Program Arcade Games: with Python and Pygame, 4 ed. Dr. Paul Vincent Craven
+    1. Antes de começar... (Before Getting Started)
+    2. Crie uma calculadora personalizada (Create a Custom Calculator)
     
 
 [Capa do repositório]: ./docs/capa-repo.webp
