@@ -68,4 +68,35 @@ pi = 3.141592653589793238462643382379502884197969399
  15. Uma constante é uma variável cujo valor não se altera ao decorrer do 
     programa. Geralmente aparecem em escopo global.
 
- 16. 
+ 16. Segundo a convensão PEP8, nomes de constantes devem ser totalmente em 
+   caixa alta a fim de diferenciar de outros tipos de variáveis.
+
+ 17. São simplesmente sinais gráficos de escrita. Em Python, são interoperáveis
+   à medida em que se pode transformar uma aspa simples em texto utilizando 
+   aspas duplas e vice-versa.
+
+ 18. 
+```py
+print("\u0022\n")
+```
+
+ 19. Sim.
+
+ 20. Pois a instrução de divisão está apenas para o número cinco. A fim de 
+   calcular a média, é necessário agrupar a soma dos números em parêntesis.
+
+ 21. Um operador é uma instrução de calculo aritmético, como divisão ("/") e 
+   subtração ("-").
+
+ 22. 3.
+
+ 23. 
+```py
+user_name = input("Enter your name: ")
+```
+
+ 24. 
+```py
+print("Enter your age")
+value = int(input())
+```
