@@ -18,6 +18,7 @@
  - Program Arcade Games: with Python and Pygame, 4 ed. Dr. Paul Vincent Craven
     1. Antes de começar... (Before Getting Started)
     2. [Crie uma calculadora personalizada (Create a Custom Calculator)](./program_arcade_games/2-calculadora-personalizada/)
+    3. [O que é linguagem de computador?](./program_arcade_games/3-o-que-e-linguagem-de-computador/)
     
 
 [Capa do repositório]: ./docs/capa-repo.webp
