@@ -15,12 +15,21 @@
 
 ## Índice
 
+Aviso: todos os tópicos sem código são o básico de Python, os quais já foram estudados. Nesse sentido, o objetivo deste repositório é aprender sobre gráficos em Pygame, e não reaprender o básico de Python.
+
  - Program Arcade Games: with Python and Pygame, 4 ed. Dr. Paul Vincent Craven
     1. Antes de começar... (Before Getting Started)
     2. Crie uma calculadora personalizada (Create a Custom Calculator)
     3. O que é linguagem de computador? (What is computer language?)
+    4. Jogos de Quiz e condicionais if (Quiz Games and If Statements)
+    5. Jogos de adivinhação com números aleatórios e laços de repetição (Guessing Games with Random Numbers and Loops)
+    6. [Introdução aos gráficos (Introduction to Graphics)](./program_arcade_games/6-introducao-graficos/)
  - Python Games from Zero to Proficiency (Beginner)
     1. Introdução à programação em Python (Introduction do programming in Python)
+    2. Criando seu primeiro script (Creating your First Script)
+    3. Criando um jogo de adivinhação de número (Creating a Number Guessing Game)
+    4. Criando um jogo de adivinhação de palavra (Creating a word guessing game)
+    5. [Utilizando gráficos e a biblioteca Pygame (Using Graphics and the Pygame Library)](./python_games_proeficiency_beginner/5-usando-graficos-pygame/)
     
 
 [Capa do repositório]: ./docs/capa-repo.webp
